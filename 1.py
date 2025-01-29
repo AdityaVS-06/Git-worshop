@@ -16,6 +16,7 @@ elif D == 0:
         r = -b / (2 * a)
         print("The roots are real and equal:")
         print("X1=X2=", r)
-else:
-        print("Roots don't exist and are imaginary")
-    
+
+else: 
+        print("sucess")
+
