@@ -18,5 +18,5 @@ elif D == 0:
         print("X1=X2=", r)
 
 else: 
-        print("sucess")
+    print("matcom")
 
